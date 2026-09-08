@@ -21,3 +21,4 @@ public class Ejercicio2 {
         System.out.println("El cubo es: " + cubo);
     }
 }
+//tarea muy importante

@@ -6,6 +6,7 @@ import java.time.LocalDate;
 import java.time.Period;
 
 public class Persona {
+    private static  final int MAYOR_EDAD = 18;
     private final String nombre;
     private LocalDate fechaDeNacimiento;
     private double altura;
@@ -38,7 +39,7 @@ public class Persona {
     }
 
     public boolean esMayorEdad(){
-        return getEdad() >= 18;
+        return getEdad() >= MAYOR_EDAD;
     }
 
     @Override

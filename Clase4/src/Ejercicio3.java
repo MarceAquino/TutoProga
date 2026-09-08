@@ -4,7 +4,7 @@ public class Ejercicio3 {
     public static void main(String[] args) {
         Scanner scaner = new Scanner(System.in);
 
-        System.out.print("Ingrese un número límite: ");
+        System.out.print("Ingrese un número límite porfavor: ");
         int numero = scaner.nextInt();
 
         int contadorPrimos = 0;
