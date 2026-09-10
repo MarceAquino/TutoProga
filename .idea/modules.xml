@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.01/C.01.iml" filepath="$PROJECT_DIR$/Clase6/C.01/C.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.02/C.02.iml" filepath="$PROJECT_DIR$/Clase6/C.02/C.02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.03/C.03.iml" filepath="$PROJECT_DIR$/Clase6/C.03/C.03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.04/C.04.iml" filepath="$PROJECT_DIR$/Clase6/C.04/C.04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.05/C.05.iml" filepath="$PROJECT_DIR$/Clase6/C.05/C.05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.06/C.06.iml" filepath="$PROJECT_DIR$/Clase6/C.06/C.06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Clase6/C.07/C.07.iml" filepath="$PROJECT_DIR$/Clase6/C.07/C.07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clase1/Clase1.iml" filepath="$PROJECT_DIR$/Clase1/Clase1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clase2/Clase2.iml" filepath="$PROJECT_DIR$/Clase2/Clase2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clase3/Clase3.iml" filepath="$PROJECT_DIR$/Clase3/Clase3.iml" />
